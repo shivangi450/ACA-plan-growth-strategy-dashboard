@@ -5,7 +5,6 @@ A Tableau dashboard + storyboard that helps **health insurance companies** ident
 - **Plan type dominance** (HMO/EPO/PPO/POS)
 - **Metal level distribution** and the split between **new vs existing** plan counts
 
-> Note: This repository is shared as an **academic/group project artifact** (UNT – Large Data Visualization). It is presented here for portfolio purposes.
 
 ---
 
