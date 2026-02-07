@@ -1,0 +1,31 @@
+Project Outcome, Impact, and Future Considerations
+====================================================
+
+Project goal
+------------
+Identify market “white space” opportunities for health insurance companies by analyzing ACA Marketplace plan attributes and visualizing geographic concentration, plan-type dominance, and metal-level distribution.
+
+What this project solved
+------------------------
+Insurance markets are crowded and competitive. This dashboard helps decision-makers quickly:
+- spot states with high vs low plan concentration,
+- understand which plan types dominate,
+- compare product mix by metal level and new vs existing plans.
+
+Key results (from the dashboard story)
+--------------------------------------
+- Strong geographic concentration: Texas is the highest-count state (4,660) while Alaska is low (64), highlighting saturation vs under-penetration.
+- Product dominance: HMO is the most common plan type (~50% share in the treemap).
+- Retention vs acquisition: existing enrollments dominate (~75% of total), with HMO + Gold appearing as a key backbone plan category.
+
+Business impact (how an insurer could use it)
+---------------------------------------------
+- Market entry strategy: prioritize 2–3 lower-saturation states for expansion where plan variety is limited.
+- Product strategy: design differentiated options (e.g., PPO flexibility or HSA-eligible plans) in underserved locations rather than competing head-to-head in saturated markets.
+- Targeted marketing: tailor outreach by regional plan-type preferences (e.g., PPO-leaning vs HMO-leaning regions).
+
+Future considerations
+---------------------
+- Add time-series analysis across plan years to track shifts in plan types and metal levels.
+- Include pricing/benefit variables (premium, deductible, OOP max) to quantify affordability “gaps”.
+- Build a scoring model to rank states by opportunity (low saturation + low plan variety + target metal levels).
