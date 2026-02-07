@@ -22,7 +22,7 @@ File used: `data/raw/plan_attributes_PUF.csv`
 
 ## Tools
 - Tableau (Dashboard, filters, parameters, storyboard)
-- Supporting write-ups in `/docs/assignments`
+
 
 ---
 
@@ -34,30 +34,6 @@ These insights are taken directly from the project storyboard and dashboard inte
 
 ---
 
-## Repository structure
-```
-health-insurance-plan-attributes-dashboard/
-├─ README.md
-├─ PROJECT_OUTCOME_IMPACT.txt
-├─ CITATION.md
-├─ LICENSE
-├─ data/
-│  └─ raw/
-│     └─ plan_attributes_PUF.csv
-├─ tableau/
-│  ├─ workbooks/
-│  │  ├─ Module_06_Workbook.twbx
-│  │  ├─ Module_10_Workbook.twbx
-│  │  └─ Module_11_Final_Dashboard.twbx
-│  └─ exports/                  # optional (images/PDF exports if you add later)
-├─ docs/
-│  └─ assignments/              # storyboard + written reflections
-└─ assets/
-   ├─ images/                   # add dashboard screenshots here
-   └─ video/                    # add demo video or link in README
-```
-
----
 
 ## How to view the dashboard
 ### Option A — Tableau Desktop
@@ -70,12 +46,7 @@ health-insurance-plan-attributes-dashboard/
 
 ---
 
-## What to add next (recommended)
-- Add 1–3 dashboard screenshots to `assets/images/` and embed them in this README
-- Export the final dashboard as PDF/PNG into `tableau/exports/`
-- Add a short demo video link (YouTube) under a “Demo” section
 
----
 
 ## Acknowledgements
 - Dataset: healthcare.gov Plan Attributes PUF (PY2025)
