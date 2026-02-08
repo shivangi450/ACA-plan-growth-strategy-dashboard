@@ -71,6 +71,9 @@ Below is the **practical schema** used for the dashboard analysis (grouped by ho
 These were not the primary focus of the current dashboard story but are strong candidates for future enhancements (profitability + affordability modeling).
 
 ---
+## 🖥️ Final Dashboard Preview
+
+![ACA Plan Growth Strategy Dashboard](Media/ACA-plan-growth-strategy-dashboard.png)
 
 # Dashboard Structure & Key Insights
 
