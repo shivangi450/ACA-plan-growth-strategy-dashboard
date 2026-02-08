@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-This project analyzes the **Marketplace Plan Attributes Public Use File (PUF) – PY2025** (file used in this project: **`plan_attributes_PUF.csv`**) to help health insurance companies benchmark their offerings, identify underserved markets, and optimize plan strategy. :contentReference[oaicite:0]{index=0}
+This project analyzes the **Marketplace Plan Attributes Public Use File (PUF) – PY2025** (file used in this project: **`plan_attributes_PUF.csv`**) to help health insurance companies benchmark their offerings, identify underserved markets, and optimize plan strategy. 
 
 Using interactive visual analytics, the dashboard translates complex plan-level data into actionable business insights for strategic decision-making.
 
