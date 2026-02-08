@@ -1,9 +1,9 @@
-# 📊 Health Insurance Plan Attributes Analysis  
+#  Health Insurance Plan Attributes Analysis  
 ### Strategic Benchmarking Dashboard for Insurance Market Intelligence
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project analyzes the **Marketplace Plan Attributes Public Use File (PUF) – PY2025** (file used in this project: **`plan_attributes_PUF.csv`**) to help health insurance companies benchmark their offerings, identify underserved markets, and optimize plan strategy. 
 
@@ -14,7 +14,7 @@ Using interactive visual analytics, the dashboard translates complex plan-level 
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 The U.S. health insurance marketplace is competitive and saturated. Insurers face challenges such as:
 
@@ -28,13 +28,13 @@ Without structured benchmarking, companies risk poor pricing decisions, reduced 
 
 ---
 
-## 💡 The Big Idea
+## The Big Idea
 
 Organizations that leverage structured health insurance data to benchmark their plans against competitors can design more competitive, compliant, and profitable offerings — while those who ignore data risk losing market share and strategic advantage.
 
 ---
 
-# 🧾 Dataset
+# Dataset
 
 **Marketplace Plan Attributes Public Use File (PUF) – PY2025** (Healthcare.gov)
 
@@ -46,7 +46,7 @@ Plan-level attributes across the ACA Marketplace, including plan design and clas
 
 ---
 
-# 🧩 Data Schema (Relevant to This Dashboard)
+# Data Schema (Relevant to This Dashboard)
 
 Below is the **practical schema** used for the dashboard analysis (grouped by how it supports insights).  
 *(Field names can vary slightly by PUF version; the dashboard uses the columns that correspond to these concepts.)*
@@ -72,7 +72,7 @@ These were not the primary focus of the current dashboard story but are strong c
 
 ---
 
-# 📊 Dashboard Structure & Key Insights
+# Dashboard Structure & Key Insights
 
 The dashboard follows a storytelling flow:
 
@@ -99,7 +99,7 @@ Displays state-level plan concentration.
 
 ---
 
-## 🌲 2. Plan Type Distribution (Treemap)
+## 2. Plan Type Distribution (Treemap)
 
 Shows proportional distribution of plan types across the market.
 
@@ -116,7 +116,7 @@ Shows proportional distribution of plan types across the market.
 
 ---
 
-## 📊 3. Detailed Plan Breakdown (Horizontal Bar Chart)
+## 3. Detailed Plan Breakdown (Horizontal Bar Chart)
 
 Compares:
 - Plan Type  
@@ -136,7 +136,7 @@ Compares:
 
 ---
 
-# 🛠 Technical Implementation
+# Technical Implementation
 
 ### Tools & Technologies
 - Tableau (Dashboard Development)
@@ -150,7 +150,7 @@ Compares:
 
 ---
 
-# 🧠 Skills Demonstrated
+# Skills Demonstrated
 
 This project highlights:
 
@@ -165,7 +165,7 @@ This project highlights:
 
 ---
 
-# 🚀 How Stakeholders Can Use This Dashboard
+# How Stakeholders Can Use This Dashboard
 
 Insurance companies can use this dashboard to:
 
@@ -178,7 +178,7 @@ Insurance companies can use this dashboard to:
 
 ---
 
-# 📈 Business Impact Potential
+# Business Impact Potential
 
 If applied operationally, this framework could:
 
@@ -191,7 +191,7 @@ If applied operationally, this framework could:
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - Integrate multi-year trend analysis  
 - Add premium/enrollment metrics (if available or joined from other sources)  
@@ -202,7 +202,7 @@ If applied operationally, this framework could:
 
 ---
 
-# 🏁 Conclusion
+# Conclusion
 
 This project demonstrates how structured health insurance plan data can be transformed into a strategic decision-support tool.
 
